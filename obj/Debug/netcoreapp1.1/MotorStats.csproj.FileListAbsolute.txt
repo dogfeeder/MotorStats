@@ -1,0 +1,8 @@
+D:\VS2017 Projects\MotorStats\bin\Debug\netcoreapp1.1\MotorStats.deps.json
+D:\VS2017 Projects\MotorStats\bin\Debug\netcoreapp1.1\MotorStats.runtimeconfig.json
+D:\VS2017 Projects\MotorStats\bin\Debug\netcoreapp1.1\MotorStats.runtimeconfig.dev.json
+D:\VS2017 Projects\MotorStats\bin\Debug\netcoreapp1.1\MotorStats.dll
+D:\VS2017 Projects\MotorStats\bin\Debug\netcoreapp1.1\MotorStats.pdb
+D:\VS2017 Projects\MotorStats\obj\Debug\netcoreapp1.1\MotorStats.AssemblyInfo.cs
+D:\VS2017 Projects\MotorStats\obj\Debug\netcoreapp1.1\MotorStats.dll
+D:\VS2017 Projects\MotorStats\obj\Debug\netcoreapp1.1\MotorStats.pdb
